@@ -27,7 +27,7 @@ SEMS is a smart energy management solution aimed at optimizing energy usage in r
 
 ## **Prototype**
 **Click the link below to view the prototype of SEMS**
-https://www.figma.com/proto/H3TGLCFTtMBM87CA6rUgzs/SEMS-Mobile-App?node-id=11-39&node-type=frame&t=c037zxGqHCeLeIPk-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A809&starting-point-node-id=11%3A39&share=1
+https://www.figma.com/proto/H3TGLCFTtMBM87CA6rUgzs/SEMS-Mobile-App?node-id=11-39&node-type=frame&t=AsG31mlX5QEExVts-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A809&starting-point-node-id=11%3A39&share=1
 
 
 **Figma file:** https://www.figma.com/design/H3TGLCFTtMBM87CA6rUgzs/SEMS-Mobile-App?node-id=1-809&t=eOYDKuRhJdSR3SFA-1 
